@@ -1,0 +1,10 @@
+{
+	"name": "root",
+	"version": "1.0.0",
+	"workspaces": [
+		"packages/*"
+	],
+	"devDependencies": {
+		"typescript": "^4.9.5"
+	}
+}
