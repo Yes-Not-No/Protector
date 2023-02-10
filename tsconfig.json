@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"allowJs": false,
+		"noImplicitAny": true,
+		"target": "ES6"
+	},
+	"include": ["./packages/**/*.ts"],
+	"exclude": ["./node_modules"]
+}
